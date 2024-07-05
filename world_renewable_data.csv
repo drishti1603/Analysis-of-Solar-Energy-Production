@@ -1,0 +1,277 @@
+﻿country_or_region,year,variable,generation_twh
+World,2000,Bioenergy,153.86
+World,2000,Clean,5400.98
+World,2000,Coal,5819.62
+World,2000,Fossil,9840.2
+World,2000,Gas,2738.9
+World,2000,Hydro,2630.67
+World,2000,Nuclear,2540.46
+World,2000,Other Fossil,1281.68
+World,2000,Other Renewables,43.81
+World,2000,Solar,1.04
+World,2000,Wind,31.14
+World,2000,Wind and solar,32.18
+World,2001,Bioenergy,147.86
+World,2001,Clean,5409.54
+World,2001,Coal,5901.22
+World,2001,Fossil,10054.46
+World,2001,Gas,2895.5
+World,2001,Hydro,2564.65
+World,2001,Nuclear,2613.17
+World,2001,Other Fossil,1257.74
+World,2001,Other Renewables,44.31
+World,2001,Solar,1.38
+World,2001,Wind,38.17
+World,2001,Wind and solar,39.55
+World,2002,Bioenergy,160.84
+World,2002,Clean,5524.22
+World,2002,Coal,6154.85
+World,2002,Fossil,10487.89
+World,2002,Gas,3085.29
+World,2002,Hydro,2608.67
+World,2002,Nuclear,2654.78
+World,2002,Other Fossil,1247.75
+World,2002,Other Renewables,45.99
+World,2002,Solar,1.72
+World,2002,Wind,52.22
+World,2002,Wind and solar,53.94
+World,2003,Bioenergy,173.08
+World,2003,Clean,5496.29
+World,2003,Coal,6584.35
+World,2003,Fossil,11097.9
+World,2003,Gas,3226.77
+World,2003,Hydro,2610.09
+World,2003,Nuclear,2601.05
+World,2003,Other Fossil,1286.78
+World,2003,Other Renewables,46.77
+World,2003,Solar,2.12
+World,2003,Wind,63.18
+World,2003,Wind and solar,65.3
+World,2004,Bioenergy,189.01
+World,2004,Clean,5848.38
+World,2004,Coal,6806.65
+World,2004,Fossil,11530.7
+World,2004,Gas,3469.11
+World,2004,Hydro,2803.29
+World,2004,Nuclear,2719.41
+World,2004,Other Fossil,1254.94
+World,2004,Other Renewables,48.42
+World,2004,Solar,2.8
+World,2004,Wind,85.45
+World,2004,Wind and solar,88.25
+World,2005,Bioenergy,210.61
+World,2005,Clean,6008.48
+World,2005,Coal,7174.99
+World,2005,Fossil,12089.47
+World,2005,Gas,3650.63
+World,2005,Hydro,2913.8
+World,2005,Nuclear,2726.97
+World,2005,Other Fossil,1263.85
+World,2005,Other Renewables,48.77
+World,2005,Solar,3.96
+World,2005,Wind,104.37
+World,2005,Wind and solar,108.33
+World,2006,Bioenergy,223.26
+World,2006,Clean,6192.77
+World,2006,Coal,7570.73
+World,2006,Fossil,12601.8
+World,2006,Gas,3877.05
+World,2006,Hydro,3018.36
+World,2006,Nuclear,2761.59
+World,2006,Other Fossil,1154.02
+World,2006,Other Renewables,50.97
+World,2006,Solar,5.43
+World,2006,Wind,133.16
+World,2006,Wind and solar,138.59
+World,2007,Bioenergy,245.16
+World,2007,Clean,6241.88
+World,2007,Coal,8059.07
+World,2007,Fossil,13431
+World,2007,Gas,4198.98
+World,2007,Hydro,3061.78
+World,2007,Nuclear,2703.49
+World,2007,Other Fossil,1172.95
+World,2007,Other Renewables,53.03
+World,2007,Solar,7.3
+World,2007,Wind,171.12
+World,2007,Wind and solar,178.42
+World,2008,Bioenergy,261.66
+World,2008,Clean,6491.6
+World,2008,Coal,8081.98
+World,2008,Fossil,13563.62
+World,2008,Gas,4333.31
+World,2008,Hydro,3245.71
+World,2008,Nuclear,2694.72
+World,2008,Other Fossil,1148.33
+World,2008,Other Renewables,56.83
+World,2008,Solar,11.87
+World,2008,Wind,220.81
+World,2008,Wind and solar,232.68
+World,2009,Bioenergy,282.39
+World,2009,Clean,6536.16
+World,2009,Coal,7958.05
+World,2009,Fossil,13374.12
+World,2009,Gas,4362.31
+World,2009,Hydro,3241.98
+World,2009,Nuclear,2656.76
+World,2009,Other Fossil,1053.76
+World,2009,Other Renewables,58.94
+World,2009,Solar,19.84
+World,2009,Wind,276.25
+World,2009,Wind and solar,296.09
+World,2010,Bioenergy,321.7
+World,2010,Clean,6911.6
+World,2010,Coal,8468.07
+World,2010,Fossil,14309.13
+World,2010,Gas,4776.99
+World,2010,Hydro,3425.77
+World,2010,Nuclear,2725.91
+World,2010,Other Fossil,1064.07
+World,2010,Other Renewables,60.08
+World,2010,Solar,32.19
+World,2010,Wind,345.95
+World,2010,Wind and solar,378.14
+World,2011,Bioenergy,338.71
+World,2011,Clean,6999.79
+World,2011,Coal,8922.11
+World,2011,Fossil,14932.99
+World,2011,Gas,4839.73
+World,2011,Hydro,3485.49
+World,2011,Nuclear,2610.34
+World,2011,Other Fossil,1171.15
+World,2011,Other Renewables,61.56
+World,2011,Solar,63.78
+World,2011,Wind,439.91
+World,2011,Wind and solar,503.69
+World,2012,Bioenergy,368.63
+World,2012,Clean,7147.39
+World,2012,Coal,8973.93
+World,2012,Fossil,15326.91
+World,2012,Gas,5129.91
+World,2012,Hydro,3656.51
+World,2012,Nuclear,2432.22
+World,2012,Other Fossil,1223.07
+World,2012,Other Renewables,63.45
+World,2012,Solar,97.37
+World,2012,Wind,529.21
+World,2012,Wind and solar,626.58
+World,2013,Bioenergy,401.86
+World,2013,Clean,7470.37
+World,2013,Coal,9430.94
+World,2013,Fossil,15633.62
+World,2013,Gas,5022.14
+World,2013,Hydro,3788.44
+World,2013,Nuclear,2448.52
+World,2013,Other Fossil,1180.54
+World,2013,Other Renewables,65.16
+World,2013,Solar,132.32
+World,2013,Wind,634.07
+World,2013,Wind and solar,766.39
+World,2014,Bioenergy,436.54
+World,2014,Clean,7779.2
+World,2014,Coal,9609.44
+World,2014,Fossil,15913.9
+World,2014,Gas,5172.79
+World,2014,Hydro,3869.4
+World,2014,Nuclear,2498.73
+World,2014,Other Fossil,1131.67
+World,2014,Other Renewables,70.38
+World,2014,Solar,198.13
+World,2014,Wind,706.02
+World,2014,Wind and solar,904.15
+World,2015,Bioenergy,474.79
+World,2015,Clean,8048.05
+World,2015,Coal,9283.26
+World,2015,Fossil,15906.61
+World,2015,Gas,5492.73
+World,2015,Hydro,3880.53
+World,2015,Nuclear,2532.93
+World,2015,Other Fossil,1130.62
+World,2015,Other Renewables,73.99
+World,2015,Solar,256.24
+World,2015,Wind,829.57
+World,2015,Wind and solar,1085.81
+World,2016,Bioenergy,480.47
+World,2016,Clean,8426.35
+World,2016,Coal,9329.38
+World,2016,Fossil,16170.89
+World,2016,Gas,5764.64
+World,2016,Hydro,4009.73
+World,2016,Nuclear,2571.05
+World,2016,Other Fossil,1076.87
+World,2016,Other Renewables,76.67
+World,2016,Solar,328.46
+World,2016,Wind,959.97
+World,2016,Wind and solar,1288.43
+World,2017,Bioenergy,512.23
+World,2017,Clean,8826.98
+World,2017,Coal,9623.48
+World,2017,Fossil,16535.53
+World,2017,Gas,5902.88
+World,2017,Hydro,4056.63
+World,2017,Nuclear,2594.23
+World,2017,Other Fossil,1009.17
+World,2017,Other Renewables,79.47
+World,2017,Solar,445.47
+World,2017,Wind,1138.95
+World,2017,Wind and solar,1584.42
+World,2018,Bioenergy,542.65
+World,2018,Clean,9313.38
+World,2018,Coal,9998.42
+World,2018,Fossil,17060.18
+World,2018,Gas,6149.49
+World,2018,Hydro,4186.05
+World,2018,Nuclear,2658.7
+World,2018,Other Fossil,912.27
+World,2018,Other Renewables,82.54
+World,2018,Solar,575.58
+World,2018,Wind,1267.86
+World,2018,Wind and solar,1843.44
+World,2019,Bioenergy,574.19
+World,2019,Clean,9761.73
+World,2019,Coal,9790.05
+World,2019,Fossil,16969.68
+World,2019,Gas,6342.43
+World,2019,Hydro,4224.57
+World,2019,Nuclear,2754.08
+World,2019,Other Fossil,837.2
+World,2019,Other Renewables,83.78
+World,2019,Solar,705.3
+World,2019,Wind,1419.81
+World,2019,Wind and solar,2125.11
+World,2020,Bioenergy,608.01
+World,2020,Clean,10136.26
+World,2020,Coal,9402.61
+World,2020,Fossil,16502.03
+World,2020,Gas,6300.74
+World,2020,Hydro,4349.36
+World,2020,Nuclear,2648.37
+World,2020,Other Fossil,798.68
+World,2020,Other Renewables,86.9
+World,2020,Solar,853.06
+World,2020,Wind,1590.56
+World,2020,Wind and solar,2443.62
+World,2021,Bioenergy,657.5
+World,2021,Clean,10668.31
+World,2021,Coal,10143.09
+World,2021,Fossil,17484.79
+World,2021,Gas,6472.49
+World,2021,Hydro,4256.89
+World,2021,Nuclear,2762.24
+World,2021,Other Fossil,869.21
+World,2021,Other Renewables,87.99
+World,2021,Solar,1055.17
+World,2021,Wind,1848.52
+World,2021,Wind and solar,2903.69
+World,2022,Bioenergy,673.31
+World,2022,Clean,11118.31
+World,2022,Coal,10266.21
+World,2022,Fossil,17652.44
+World,2022,Gas,6505.47
+World,2022,Hydro,4293.19
+World,2022,Nuclear,2639.48
+World,2022,Other Fossil,880.76
+World,2022,Other Renewables,90.36
+World,2022,Solar,1322.96
+World,2022,Wind,2099.01
+World,2022,Wind and solar,3421.97
